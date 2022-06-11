@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.buttons{
+    background-color: black;
+    width: 10em; 
+    height: 4em;
+    margin: 1.5em 2em;
+    color: white;
+    font-size: 2rem;
+    border: 2px solid silver;
+    border-radius: 50%;
+}
+.paras{
+    color:white;
+    text-align: center;
+}
+.flexy{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkred;
+    height: 20em;
+    text-align: center;
+    border: 1px solid silver;
+}
+.result{
+    color:white;
+    font-size: 3rem;
+    margin: 1.2em 3em;
+}
+.count{
+    color:white;
+    font-size: 5rem;
+    margin: 0 3em;
+}
